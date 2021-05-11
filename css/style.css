@@ -6,11 +6,10 @@ font-family: 'Asap', sans-serif;
   margin: auto 0 0 0;
 }
 
-h1 {
-  font-size: 3.0rem;
-  color: #364547;
-  font-family: 'Asap', sans-serif;
-}
+
+h1 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
+
+  
 
 h2 {
   margin-top: 50px;
