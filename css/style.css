@@ -87,7 +87,9 @@ p {
 }
 
 .IMG_0990-img {
-  width: 15%
+  width: 15%;
+  border-radius: 100%;
+
 }
 
 .ship2-img {
