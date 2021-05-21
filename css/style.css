@@ -153,9 +153,11 @@ background: -webkit-linear-gradient( center top, #f24537 5%, #c62d1f 100% );
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 30px;
   padding: 50px 20px 50px 20px;
   text-decoration: none;
+      padding-top: 10px;
+
 }
 
 .btn2:hover {
